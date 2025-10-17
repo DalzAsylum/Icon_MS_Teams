@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
